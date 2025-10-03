@@ -1,0 +1,13 @@
+let Ma_SP = 'SP10001';
+let Ten_SP = "Iphone 17 Pro Max";
+let Nam_SX = 2025;
+let Hang_SX = "Apple";
+let Gia_ban = 35000000;
+let Trang_thai = true;
+console.log("- Mã SP (",typeof Ma_SP,"):",Ma_SP);
+console.log("- Tên SP (",typeof Ten_SP,"):",Ten_SP);
+console.log("- Năm sản xuất (",typeof Nam_SX,"):",Nam_SX);
+console.log("- Hãng sản xuất (",typeof Hang_SX,"):",Hang_SX);
+console.log("- Giá bán (",typeof Gia_ban,"):", Gia_ban);
+console.log("- Trạng thái đã mở bán (",typeof Trang_thai,"):",Trang_thai);
+console.log("- Tổng tiền phải trả khi mua 6 SP:",Gia_ban*6);
