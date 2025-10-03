@@ -1,5 +1,5 @@
 function tong_cuoc(n) {
-    let tong=25000;
+    let tong=5000;
     gia_cuoc = {
         _50p : 600,
         _150p : 400,
